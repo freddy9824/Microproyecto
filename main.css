@@ -2,3 +2,29 @@
     width: 100%;
     height: 100%;
 }
+
+.tabla {
+    width: 100%;
+
+}
+
+.Escritos {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #1196ad;
+}
+
+.ima {
+    width: 70%;
+    margin: 10px;
+}
+
+.Titulos {
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 250%;
+    text-align: center;
+}
+
+.Fondo{
+    background-color: black;
+}
