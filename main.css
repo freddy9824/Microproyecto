@@ -48,7 +48,6 @@
 header {
     background: rgba(0,0,0,0.9);
     width: 100%;
-    position: fixed;
     z-index: 100;
   }
 
@@ -83,5 +82,5 @@ header {
     width: 5%;
     margin-top: 43%;
     cursor: pointer;
-    margin-left: 95%;
+    margin-left: 40%;
   }
